@@ -1,6 +1,6 @@
- # 195150307111018
- # Taufiqurrachman
- # Arsitektur Jaringan Terkini
+ 195150307111018
+ Taufiqurrachman
+ Arsitektur Jaringan Terkini
 
 # Tugas 1
 
