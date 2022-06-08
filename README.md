@@ -2,7 +2,7 @@
  # Taufiqurrachman
  # Arsitektur Jaringan Terkini
 
-Tugas 1
+# Tugas 1
 
 Instance
 Spesifikasi:
@@ -31,12 +31,12 @@ Instalasi Mininet Ryu dll
 
 ![ajt8](https://user-images.githubusercontent.com/57854253/172641100-b16803d6-7659-4403-ac2a-faf98e53f8aa.png)
 
-Tugas 2
+# Tugas 2
 Percobaan topology mininet 3 switch (loop) dengan 6 host
 
 ![image](https://user-images.githubusercontent.com/57854253/172644740-09853674-bbc3-4723-84ee-9cd9b374ae2d.png)
 
-Tugas 3
+# Tugas 3
 Tab Vocareum Labs untuk Mininet 
 
 ![image](https://user-images.githubusercontent.com/57854253/172650407-d98ec970-4808-4d8c-bcdc-986f38dc3286.png)
@@ -47,7 +47,7 @@ Tab Vocareum Labs untuk Ryu Manager
 ![image](https://user-images.githubusercontent.com/57854253/172650537-542bb425-7d3e-4b8c-90d8-9bce24e05a63.png)
 
 
-Tugas 4
+# Tugas 4
 
 Menggunakan gitclone untuk menyalin repository dari https://github.com/abazh/learn_sdn.git pada terminal satu dan mengganti direktori ke learn_sdn/SPF pada terminal 1 
 
